@@ -11,4 +11,4 @@
     
   <h2>Autor</h2>
   <p><strong>Gustavo Concordia</strong></p>
-  <p>Contato: >gustavoconcordia92@gmail.com</a></p>
+  <p>Contato: </p>gustavoconcordia92@gmail.com</a></p>
