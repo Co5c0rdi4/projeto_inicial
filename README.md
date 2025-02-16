@@ -1,6 +1,6 @@
 <p>Este projeto foi desenvolvido pela plataforma de cursos online <strong>Alura</strong>.</p>
 <h2>Sobre</h2>
-<p>O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso, utilizando as melhores práticas de desenvolvimento.</p>
+<p>O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do curso, utilizando as melhores práticas de desenvolvimento. </br>Se trata de um jogo que sorteia um número aleatório, convida o usuário a tentar advinhar esse número, depois verifica em quantas tentativas o jogador acertou.</p>
       
 <h2>Tecnologias Utilizadas</h2>
   <ul>
